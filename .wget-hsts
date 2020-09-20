@@ -1,0 +1,7 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.tspu.edu.ru	0	0	1600143623	15768000
+pp.userapi.com	0	0	1600590722	15768000
+s3.thingpic.com	0	1	1600589905	63072000
+m-tsvetaeva.org	0	0	1600590375	31536000
